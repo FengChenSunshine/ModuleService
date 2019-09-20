@@ -28,6 +28,6 @@ dependencies {
     androidTestImplementation library.test_runner
     androidTestImplementation library.test_espresso_core
 
-    implementation project(":library_module_service")
-//    implementation library.module_service
+//    implementation project(":library_module_service")
+    implementation library.module_service
 }
