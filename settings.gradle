@@ -1,0 +1,2 @@
+include ':app', ':library_module_service'
+rootProject.name='ModuleService'
