@@ -18,8 +18,6 @@ Add it in your root build.gradle at the end of repositories:
 
 ## 历史版本
 ### 1.0.0
-新增工具类：
-
 1.发布1.0.0
 
 
